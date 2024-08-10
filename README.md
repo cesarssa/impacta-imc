@@ -1,4 +1,8 @@
-# Especificação: Calculadora de IMC
+# Atividade avaliativa Calculadora de IMC
+- disciplina API& Web Applications
+- Prof.: Emilio Murta Resende
+  
+# Especificação:
 # 1. Visão Geral
 A Calculadora de IMC é uma aplicação web simples que permite aos usuários calcular seu Índice de Massa Corporal (IMC) e receber uma classificação baseada no resultado.
 
