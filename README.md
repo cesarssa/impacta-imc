@@ -1,5 +1,5 @@
 # Atividade avaliativa Calculadora de IMC
-- disciplina API& Web Applications
+- Disciplin:a API& Web Applications
 - Prof.: Emilio Murta Resende
   
 # Especificação:
