@@ -1,1 +1,22 @@
+/* Estilos gerais para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para inputs e botões */
+input, button {
+    font-size: 16px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+/* Estilos para a div de resultado */
+#resultado {
+    margin-top: 20px;
+    font-weight: bold;
+}
 
